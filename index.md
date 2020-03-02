@@ -6,8 +6,6 @@ layout: home
 search: exclude
 ---
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
-
-![](https://yuki-data.github.io/yuki-data-portfolio/images/stock-price.jpg "yuki-data")
+![](https://pbs.twimg.com/profile_banners/1075800920183660544/1579410631/600x200 "yuki-data")
 
 # 投稿記事一覧
