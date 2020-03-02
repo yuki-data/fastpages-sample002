@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "https://yuki-data.github.io/about/",
-    "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "title": "自己紹介",
+    "body": "未経験からのエンジニア転職を目指して勉強中。よろしくお願いします。 "
     }, {
     "id": 2,
     "url": "https://yuki-data.github.io/categories/",
